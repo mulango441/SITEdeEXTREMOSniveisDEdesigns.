@@ -1,0 +1,67 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	margin: 0px;
+	padding: 0px;
+}
+nav{
+	z-index: 10;
+	width:100%;
+	left: 0px;
+	top: 0px;
+	min-height:175px;
+	background-image: url('tinta.jpg');
+
+}
+
+nav ul {
+	
+}
+
+nav li a {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px;
+	background-color: black;
+	border-radius: 5px;
+	
+}
+
+li{
+display: inline;
+margin-left: 150px;}
+
+h1{
+	margin-top:70px;
+	
+}
+
+h2{
+	padding: 10px;	
+}
+
+article{
+	clear:both;
+	margin-bottom: 50px;
+}
+
+img{
+	float:left;
+	width: 400px;
+	margin: 10px;
+	margin-top: 10px;
+	
+}
+
+p{
+	font-size: 18px;
+}
+
+footer{
+	clear:both;
+	width: 500px;
+	margin-left: 35%;
+}

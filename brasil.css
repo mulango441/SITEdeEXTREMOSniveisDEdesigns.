@@ -1,0 +1,88 @@
+body{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+main{
+	padding-top: 80px;
+}
+
+h1{
+	text-align: center;
+	padding : 20px;
+	margin-top:70px;
+	}
+	
+h2,p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	
+}
+p#surg{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+header{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	z-index: 10;
+	width:100%;
+	margin: 0px;
+	left: 0px;
+	top: 0px;
+	min-height:175px;
+	background-image: url('tinta.jpg');
+
+}
+
+nav ul {
+	/*margin-top: 30px;*/
+}
+
+nav li a {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px;
+	background-color: black;
+	border-radius: 5px;
+	/*margin-top: 30px;*/
+}
+
+li{
+display: inline;
+margin-left: 150px;}
+
+img{
+
+width: 600px;
+}
+
+p#novo{
+	position:realtive;
+	
+}
+article{
+	clear:both;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+p{
+	font-size: 18px;
+}
+
+footer{
+	clear:both;
+	text-align: center;
+}
+
+
+	
+	
